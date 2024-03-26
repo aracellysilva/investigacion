@@ -1,0 +1,48 @@
+---
+title: "Derechos sexuales y reproductivos"
+author: "Aracelly Silva"
+format: html
+editor: visual
+bibliography: derechos.bib
+link-citations: yes
+---
+
+## Trabajo 1
+
+Por: Aracelly Silva
+
+### **Derechos sexuales y reproductivos, Chile 2023** 
+
+El tema central de la investigación será el retroceso en los derechos sexuales y reproductivos en Chile frente al avance de la extrema derecha en Chile.
+
+\
+
+La lucha por los derechos de la mujer se extiende por el mundo desde hace más de un siglo, en particular en Chile comienza a cobrar relevancia el derecho a al educacion de la mujeres en 1877 con el Decreto Amunategui, el cual les permitia acceder a la universidad, asi es como Eloísa Díaz Insunza se transforma en la primera mujer medico en Chile . En el ámbito de los derechos sociales y políticos desde 1913 surgen los primeros clubes y asociaciones en los que se releva el rol de la mujer y se reclaman la expansión sus derechos, de la mano de mujeres como Amanda Labarca y Celinda Reyes, quienes a su vez impulsan la Ley Maza en 1925 que permite a las mujeres casadas administrar sus salarios. Asi es como el 7 de abril de 1935 las mujeres chilenas ejercen su derecho a sufragio y a ser elegidas en las elecciones municipales.
+
+\
+
+En este mismo año nace el Movimiento Pro Emancipación de la Mujer Chilena (MEMCH) con representación a lo largo de todo el país incentivando la divulgación estatal de métodos anticonceptivos, y planteadno la discusión del divorcio o el aborto. El MEMCH cobra una vital importancia en el avance de la lucha feminista, pues, como dice su secretaria general Amanda Labarca \"...sólo la acción de las propias afectadas sería la vía de solución a sus problemáticas\" [@rojas-mira_extraordinaria_2022]
+
+\
+
+Asi mismo en 2017 se aprueba en Chile la ley que despenaliza el aborto en tres causales, Peligro para la vida de la mujer, Inviabilidad fetal de carácter letal y Embarazo por violación, alcanzando entonces el reconocimiento de una parte de sus derechos sexuales y reproductivos (DSR) que hasta ese momento aun se era perseguido por la ley.
+
+\
+
+Pero tal como relata José Manuel Morán la llamada derechización de América Latina ha contribuido en limitar los avances de las oleadas feministas en materia de DSR, una prueba de aquello es la pasada convención constitucional donde el Partido Republicano propuso agregar a la propuesta constitucional un artículo que asegurara que en Chile \"se protege la vida del niño que está por nacer y la maternidad\".
+
+Por tanto es de vital importancia para la disciplina de la Ciencia Política la conjugación de estas dos variables del avance de la extrema derecha en chile con el impacto que esta tiene en el retroceso de los derechos sexuales y reproductivos de las mujeres en el Chile actual, pues la soberanía sobre los cuerpos de las más de 9 millones de mujeres que habitan la nación debe ser prioridad del Estado y de las políticas públicas de cada uno de los gobiernos.
+
+\
+\
+
+Es por eso que en virtud de esta investigacion se entenderan como derechos sexuales\"el derecho a tener control sobre las cuestiones relativas a su sexualidad, incluida su salud sexual y reproductiva, y a decidir libremente respecto de esas cuestiones sin verse sujeta a coerción, discriminación o violencia\". Y como derechos reproductivos \" el derecho básico de todas las parejas e individuos a decidir libre y responsablemente el número de hijos, el espaciamiento de los nacimientos y a disponer de la información y de los medios para ello, así como el derecho a alcanzar el nivel más elevado de salud sexual y reproductiva. También incluye el derecho a adoptar decisiones relativas a la reproducción sin sufrir discriminación, coacciones o violencia, de conformidad con lo establecido en los documentos de derechos humanos\" [@moran_faundes_tercera_2023]
+
+\
+
+Asi mismo es necesario establecer la diferencia entre izquierda y derecha, en [@bobbio_derecha_1995] de Norberto Bobbio a pesar de que no se encuentran definiciones concretas de los conceptos si se entregan elementos identificables. Situación que se asimila con los trabajos de ¿Qué es la política? y La condición humana de Hannah Arendt, en donde se establecen ciertas condiciones y elementos atribuibles a él. Ejemplo de ello son las concepciones de libertad colectiva, justicia e igualdad como algo identificable de ideologías de izquierda, así como la libertad individual, el conservadurismo y el apego a tradiciones como parte de nociones de derecha [@arendt_condicion_2011]. Por lo que al momento de definir a un partido u opinión como \"de derecha\" se tomarán en consideración estos elementos. Asi mismo la extrema derecha se caracteriza por rechazar la esencia de la democracia como la igualdad política y el gobierno por mayoría popular [@mudde_ultraderecha_2021]
+
+Por tanto, se espera que a medida que la extrema derecha avanza en Chile los derechos sexuales reproductivos retroceden.
+
+\
+
